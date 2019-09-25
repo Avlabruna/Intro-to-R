@@ -1,5 +1,5 @@
 # R script to accompany Intro to R
-# Anthony Vincent LaBruna
+# Anthony V. LaBruna
 ######################################################
 
 # You will see that you can put non-executable "comment" lines.
